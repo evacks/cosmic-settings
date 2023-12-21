@@ -1,16 +1,16 @@
-app = COSMIC Settings
+app = Ρυθμίσεις COSMIC
 
-unknown = Unknown
+unknown = Άγνωστο
 
 number = { $number }
 
 ## Desktop
 
-desktop = Desktop
+desktop = Επιφάνεια Εργασίας
 
-## Desktop: Appearance
+## Desktop: Εμφάνιση
 
-appearance = Appearance
+appearance = Εμφάνιση
     .desc = Accent colors and COSMIC theming.
 
 accent-color = Accent color
